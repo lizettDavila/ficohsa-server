@@ -5,4 +5,4 @@ Install node-modules with npm install
 La api pùblica usada tiene un límite de 150 consultas
 
 #Running
-Ejecutar el servidor con # npm run dev
+Ejecutar el servidor con - npm run dev
